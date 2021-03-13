@@ -15,7 +15,6 @@
 You can reach me out on -
   - hrushikeshrao20@gmail.com (Gmail)
   - [LinkedIn](https://www.linkedin.com/in/hrushikesh-rao-7741311b0/) Profile
-- 
 
 <!---
 Hrushi20/Hrushi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
