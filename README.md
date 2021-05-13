@@ -1,6 +1,6 @@
-# :smiley: About Me :smiley:
+# :smiley: Hello World :smiley:
 
-- 👋 Hi, I’m [@Hrushi20](https://github.com/Hrushi20).
+- 👋 I’m [@Hrushi20](https://github.com/Hrushi20).
 - 👀 I’m a fullstack web developer.
 - 🌱 Currently working at Formulate AI as an intern.
 - ❤️ Love to experiment with new technologies.
@@ -12,7 +12,7 @@
   - Mongodb (Database)
 - Currently learning Java. 
 
-Connect me with <img src="https://github.com/Hrushi20/Hrushi20/blob/main/Handshake.gif" width="40" height="40" /> -
+# Connect me with <img src="https://github.com/Hrushi20/Hrushi20/blob/main/Handshake.gif" width="100" height="40" />
   - hrushikeshrao20@gmail.com (Gmail)
   - [LinkedIn](https://www.linkedin.com/in/hrushikesh-rao-7741311b0/) Profile
 
