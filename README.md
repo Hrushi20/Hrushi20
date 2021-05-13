@@ -52,7 +52,7 @@
 
 - hrushikeshrao20@gmail.com (Gmail)
 - [LinkedIn](https://www.linkedin.com/in/hrushikesh-rao-7741311b0/) Profile
-
+- [Twitter](https://twitter.com/hrushi2020) Profile
 <!---
 Hrushi20/Hrushi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
