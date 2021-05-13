@@ -12,7 +12,7 @@
   - Mongodb (Database)
 - Currently learning Java. 
 
-You can reach me out on -
+Connect me with <img src="https://github.com/Hrushi20/Hrushi20/blob/main/Handshake.gif" width="40" height="40" /> -
   - hrushikeshrao20@gmail.com (Gmail)
   - [LinkedIn](https://www.linkedin.com/in/hrushikesh-rao-7741311b0/) Profile
 
