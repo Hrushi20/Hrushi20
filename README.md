@@ -1,6 +1,6 @@
 # :smiley: About Me :smiley:
 
-- 👋 Hi, I’m @Hrushi20.
+- 👋 Hi, I’m [@Hrushi20](https://github.com/Hrushi20).
 - 👀 I’m a fullstack web developer.
 - 🌱 Currently working at Formulate AI as an intern.
 - ❤️ Love to experiment with new technologies.
