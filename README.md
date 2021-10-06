@@ -8,7 +8,6 @@
 
 - 👋  I’m [@Hrushi20](https://github.com/Hrushi20).
 - 👀  A fullstack web developer.
-- 🌱  Currently working at Formulate AI as an intern.
 - ❤️   Love to experiment with new technologies.
 - 🚀  Fast learner 🚀
 - 🔥  Passion for coding 🔥
