@@ -7,8 +7,8 @@
 <br/>
 
 - 👋  I’m [@Hrushi20](https://github.com/Hrushi20).
-- 👀  A fullstack web developer.
-- ❤️   Love to experiment with new technologies.
+- 👀  Software Engineer.
+- ❤️  Love to experiment with new technologies.
 - 🚀  Fast learner 🚀
 - 🔥  Passion for coding 🔥
 
