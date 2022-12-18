@@ -18,25 +18,17 @@
 <br/>
 
   # Core tech stack-
-  
-  <img src="https://github.com/Hrushi20/Hrushi20/blob/main/Tools.gif" align="left" width="380" height="220"/>
-   
-   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60" height="60"/></code>
-   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="60" height="60"/></code>
    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60"             height="60"/></code>
    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60" height="60"/>       </code>
    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="60" height="60"/>     </code>
    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="60" height="60"/></code>
    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="60" height="60"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="60" height="60"/></code>
  
- 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 # Github Statistics:
 
@@ -47,3 +39,15 @@
 Hrushi20/Hrushi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Social:
+<div style="display:flex; align-items:center">
+<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" height="50">  &nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/hrushikesh-rao-7741311b0/">Linkedin</a>
+</div>
+<br/>
+<br/>
+<div style="display:flex; align-items:center">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50">  &nbsp;&nbsp;<a target="_blank" href="https://twitter.com/Hrushi2020">Twitter</a>
+ </div>
+
+
