@@ -17,18 +17,19 @@
 <br/>
 <br/>
 
-  # Core tech stack-
-   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60"             height="60"/></code>
-   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="60" height="60"/>       </code>
-   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="60" height="60"/>     </code>
-   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="60" height="60"/></code>
-   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="60" height="60"/></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="60" height="60"/></code>
- 
-<br/>
-<br/>
-<br/>
+## Languages and Tech Stack:
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />
+<img align="left" alt="MongoDb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 
+<br />
+<br/>
 
 # Github Statistics:
 
@@ -41,13 +42,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Social:
-<div style="display:flex; align-items:center">
-<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" height="50">  &nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/hrushikesh-rao-7741311b0/">Linkedin</a>
-</div>
-<br/>
-<br/>
-<div style="display:flex; align-items:center">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50">  &nbsp;&nbsp;<a target="_blank" href="https://twitter.com/Hrushi2020">Twitter</a>
- </div>
+&nbsp;&nbsp;
+[![website](./img/twitter.svg)](https://twitter.com/hrushi2020#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/hrushikesh-rao-7741311b0/#gh-light-mode-only)
+&nbsp;&nbsp;
+ 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
