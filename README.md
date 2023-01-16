@@ -31,7 +31,7 @@
 <br />
 <br/>
 
-# Github Statistics:
+## Github Statistics:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushi20&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushi20&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact" />
@@ -43,10 +43,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Social:
 &nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/hrushi2020#gh-light-mode-only)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="50" height="50">](https://twitter.com/hrushi2020)
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/hrushikesh-rao-7741311b0/#gh-light-mode-only)
+[<img src="https://img.icons8.com/color/512/linkedin-circled--v1.png" width="50" height="50">](https://www.linkedin.com/in/hrushikesh-rao-7741311b0)
 &nbsp;&nbsp;
+[<img src="https://img.icons8.com/dusk/512/web.png" widht="50" height="50">](https://boobox20.in)
  
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
