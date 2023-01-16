@@ -14,8 +14,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 ## Languages and Tech Stack:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
