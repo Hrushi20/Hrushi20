@@ -5,6 +5,9 @@
 📍 Hyderabad | 📬 hrushikesh20thegreat@gmail.com | 🌐 [GitHub](https://github.com/hrushi20)
 
 ---
+## Open Source Summit Europe, Vienna 
+
+<img width="800" height="600" src = "https://github.com/Hrushi20/Hrushi20/blob/main/img/LFX_Europe.jpg"/>
 
 ## 🧠 About Me
 
