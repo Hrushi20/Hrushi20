@@ -1,53 +1,66 @@
-<h1 align="center"> :smiley: Hello World :smiley:</h1>
+# 👋 Hey there, I'm Hrushikesh Rao
 
-<br/>
+🎯 Software Engineer | 💻 Open Source Contributor | 🛠️ Systems Doctor
 
-<img src="https://github.com/Hrushi20/Hrushi20/blob/main/giphy.gif" align="right" width="400" height="250"/>
+📍 Hyderabad | 📬 hrushikesh20thegreat@gmail.com | 🌐 [GitHub](https://github.com/hrushi20)
 
-<br/>
+---
 
-- 👋  I’m [@Hrushi20](https://github.com/Hrushi20).
+## 🧠 About Me
+
 - 👀  Software Engineer.
-- ❤️  Love to experiment with new technologies.
+- ❤️  Enjoy Problem Solving. 
 - 🚀  Fast learner 🚀
 - 🔥  Passion for coding 🔥
 
-<br/>
-<br/>
+---
 
-## Languages and Tech Stack:
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />
-<img align="left" alt="MongoDb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
+## 🔧 Tech Stack
 
-<br />
-<br/>
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-blue) ![C++](https://img.shields.io/badge/-C++-00599C) ![Rust](https://img.shields.io/badge/-Rust-black) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
 
-## Github Statistics:
+**Platforms:**  
+Linux, Raspberry Pi, IPFS, Metamask, Ganache, Jenkins, WasmEdge
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrushi20&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushi20&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact" />
- 
-<!---
-Hrushi20/Hrushi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-## Social:
-&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="50" height="50">](https://twitter.com/hrushi2020)
-&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/512/linkedin-circled--v1.png" width="50" height="50">](https://www.linkedin.com/in/hrushikesh-rao-7741311b0)
-&nbsp;&nbsp;
-[<img src="https://img.icons8.com/dusk/512/web.png" widht="50" height="50">](https://boobox20.in)
- 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## 🚀 Projects
 
+### 🔐 [Ctrl Alt Debt Hackathon – BKyc](https://github.com/Hrushi20/BKyc)
+- Encrypted KYC docs with AES-256, stored on IPFS.
+- Integrated Solidity smart contracts, Ganache, and Metamask.
+- Containerized app using Docker.
 
+### 🖥️ Self-Hosted Linux Server
+- Raspberry Pi 4 server running apps like Nextcloud, Bitwarden, Grafana.
+- Automated backups and deployment with bash scripts.
+
+---
+
+## 💼 Experience
+
+### 🧬 [WasmEdge | CNCF | Linux Foundation Mentorship](https://www.cncf.io/blog/2023/12/14/lfx-programs-cncf-mentees-have-successfully-finished-term-3/)
+- Designed FFmpeg Plugin in C++/C for WasmEdge with GPU/AVX support.
+- Offloaded computation-intensive tasks to host, improving ML inference by 150%.
+- Developed Rust SDK to interact with plugin.
+
+### ☁️ [Google Summer of Code | Jenkins](https://www.jenkins.io/projects/gsoc/2022/projects/automatic-git-cache-maintenance/)
+- Optimized Git cache on Jenkins Controller using prefetch, gc, and commit-graph.
+- Developed UI in Apache Jelly to schedule cron jobs and improve Git operations speed (100x).
+- Implemented multi-threaded Producer-Consumer design for Jenkins Git Maintenance.
+
+### 🌐 Fullstack Web Developer | Formulate AI
+- Built responsive frontend with React.js + TailwindCSS.
+- Backend in Node.js with MongoDB and real-time mentoring using Socket.IO.
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out via email or connect with me on [GitHub](https://github.com/hrushi20).  
+I'm open to collaborations, OSS contributions, or just geeking over systems!
+
+---
+
+> “Every software is a facade design pattern.” – Me 😄
